@@ -1,0 +1,1 @@
+# charismo-app-public
